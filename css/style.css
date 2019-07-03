@@ -1099,7 +1099,7 @@ body.section-show .transition-mask:before{
 .service{
 	position:relative;
 	text-align:center;
-	margin-bottom:120px;
+	margin-bottom:50px;
 }
 .service > .icon{
 	-webkit-transform:rotate(45deg);
